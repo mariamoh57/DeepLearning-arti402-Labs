@@ -21,7 +21,7 @@ The goal of these labs is to bridge the gap between theoretical deep learning co
 - **Libraries:** NumPy, Matplotlib (More industry-standard frameworks to be added soon)
 - **Environment:** Jupyter Notebook
 
-## 💡 Key Learnings (So Far)
+## Key Learnings (So Far)
 - Implementing mathematical models of neurons from scratch without relying heavily on high-level frameworks.
 - Understanding matrix multiplications and dimensionalities in batched data processing.
 - The distinction between model features, weights, biases, and activation thresholds.
