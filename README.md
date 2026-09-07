@@ -9,7 +9,7 @@ The goal of these labs is to bridge the gap between theoretical deep learning co
 
 | Lab | Topic | Concepts Covered | Tools Used | Status |
 | :---: | :--- | :--- | :--- | :---: |
-| **Lab 1** | [From a Single Neuron to a Layer](arti402_lab1_2240005715.ipynb) | Forward pass, Weights & Biases, Dot Product, Model Parameters Count | `Python`, `NumPy` | Completed |
+| **Lab 1** | [From a Single Neuron to a Layer](DeepLearning-Labs/Lab1/arti402_lab1_2240005715.ipynb) | Forward pass, Weights & Biases, Dot Product, Model Parameters Count | `Python`, `NumPy` | Completed |
 | **Lab 2** | *To be updated* | - | - | Pending |
 | **Lab 3** | *To be updated* | - | - | Pending |
 
