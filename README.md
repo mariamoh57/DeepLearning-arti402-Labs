@@ -10,7 +10,7 @@ The goal of these labs is to bridge the gap between theoretical deep learning co
 | Lab | Topic | Concepts Covered | Tools Used | Status |
 | :---: | :--- | :--- | :--- | :---: |
 | **Lab 1** | [From a Single Neuron to a Layer](DeepLearning-Labs/Lab1/arti402_lab1_2240005715.ipynb) | Forward pass, Weights & Biases, Dot Product, Model Parameters Count | `Python`, `NumPy` | Completed |
-| **Lab 2** | *To be updated* | - | - | Pending |
+| **Lab 2** | [Activations, Loss, and How a Network Learns](DeepLearning-Labs/Lab2/arti402_lab2_2240005715.ipynb) | ReLU, Sigmoid, Softmax, Categorical Cross-Entropy, Gradient Descent, Backpropagation | `Python`, `NumPy`, `Matplotlib` | Completed |
 | **Lab 3** | *To be updated* | - | - | Pending |
 
 *(This table will be updated weekly as the course progresses).*
@@ -25,5 +25,10 @@ The goal of these labs is to bridge the gap between theoretical deep learning co
 - Implementing mathematical models of neurons from scratch without relying heavily on high-level frameworks.
 - Understanding matrix multiplications and dimensionalities in batched data processing.
 - The distinction between model features, weights, biases, and activation thresholds.
+- Implementing activation functions (ReLU, Sigmoid, Softmax) to introduce non-linearity.
+- Measuring model performance using Categorical Cross-Entropy loss.
+- Applying Gradient Descent and deriving Backpropagation manually using the chain rule to update weights.
 
+
+  
 **Maria Mohammed Al-Sadiq  7FA01**  
