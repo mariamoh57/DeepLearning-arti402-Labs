@@ -11,7 +11,10 @@ The goal of these labs is to bridge the gap between theoretical deep learning co
 | :---: | :--- | :--- | :--- | :---: |
 | **Lab 1** | [From a Single Neuron to a Layer](DeepLearning-Labs/Lab1/arti402_lab1_2240005715.ipynb) | Forward pass, Weights & Biases, Dot Product, Model Parameters Count | `Python`, `NumPy` | Completed |
 | **Lab 2** | [Activations, Loss, and How a Network Learns](DeepLearning-Labs/Lab2/arti402_lab2_2240005715.ipynb) | ReLU, Sigmoid, Softmax, Categorical Cross-Entropy, Gradient Descent, Backpropagation | `Python`, `NumPy`, `Matplotlib` | Completed |
-| **Lab 3** | *To be updated* | - | - | Pending |
+| **Lab 3** | [CNN Architecture: The Four Building Blocks](DeepLearning-Labs/Lab3/arti402_Lab3_2240005715.ipynb) | Convolution, Max Pooling, Flattening, Feature Extraction, Translation Invariance | `Python`, `NumPy`, `Matplotlib` | ✅ Completed |
+| **Lab 4** | [Recurrent Networks: RNN, LSTM and GRU](DeepLearning-Labs/Lab4/arti402_Lab4_2240005715.ipynb) | Sequential Data, Weight Sharing over Time, Memory Gates, Vanishing Gradients | `Python`, `NumPy`, `Matplotlib` | ✅ Completed |
+| **Lab 5** | [Optimizers: SGD, Momentum, RMSProp, and Adam](DeepLearning-Labs/Lab5/arti402_Lab5_2240005715.ipynb) | Gradient Descent Variants, Mini-batches, Learning Rate Decay, Adaptive Optimization | `Python`, `NumPy`, `Matplotlib` | ✅ Completed |
+| **Lab 6** | *To be updated* | - | - | Pending |
 
 *(This table will be updated weekly as the course progresses).*
 
@@ -21,14 +24,13 @@ The goal of these labs is to bridge the gap between theoretical deep learning co
 - **Libraries:** NumPy, Matplotlib (More industry-standard frameworks to be added soon)
 - **Environment:** Jupyter Notebook
 
-## Key Learnings (So Far)
-- Implementing mathematical models of neurons from scratch without relying heavily on high-level frameworks.
-- Understanding matrix multiplications and dimensionalities in batched data processing.
-- The distinction between model features, weights, biases, and activation thresholds.
-- Implementing activation functions (ReLU, Sigmoid, Softmax) to introduce non-linearity.
-- Measuring model performance using Categorical Cross-Entropy loss.
-- Applying Gradient Descent and deriving Backpropagation manually using the chain rule to update weights.
+## 💡 Key Learnings & Implementations
+- **Foundations:** Implementing mathematical models of neurons, forward passes, and dimensionalities in batched data processing from scratch.
+- **Optimization & Learning:** Measuring model performance using Categorical Cross-Entropy loss, applying Gradient Descent, and deriving Backpropagation manually using the chain rule.
+- **Computer Vision (CNNs):** Building the four core blocks of Convolutional Neural Networks (Filtering, Pooling, Flattening, Dense) to achieve translation invariance and feature extraction.
+- **Sequential Data (RNNs):** Implementing RNN and LSTM cells to handle variable-length sequences, understanding the vanishing gradient problem, and utilizing gates for long-term and short-term memory.
+- **Advanced Optimizers:** Developing optimizers from scratch (SGD with Momentum, RMSProp, Adam) to solve complex optimization challenges like zig-zagging and adapting step sizes per parameter.
 
-
+---
   
 **Maria Mohammed Al-Sadiq  7FA01**  
