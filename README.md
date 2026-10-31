@@ -14,7 +14,9 @@ The goal of these labs is to bridge the gap between theoretical deep learning co
 | **Lab 3** | [CNN Architecture: The Four Building Blocks](DeepLearning-Labs/Lab3/ARTI402_Lab3_2240005715.ipynb) | Convolution, Max Pooling, Flattening, Feature Extraction, Translation Invariance | `Python`, `NumPy`, `Matplotlib` | Completed |
 | **Lab 4** | [Recurrent Networks: RNN, LSTM and GRU](DeepLearning-Labs/Lab4/ARTI402_Lab4_2240005715.ipynb) | Sequential Data, Weight Sharing over Time, Memory Gates, Vanishing Gradients | `Python`, `NumPy`, `Matplotlib` | Completed |
 | **Lab 5** | [Optimizers: SGD, Momentum, RMSProp, and Adam](DeepLearning-Labs/Lab5/ARTI402_Lab5_2240005715.ipynb) | Gradient Descent Variants, Mini-batches, Learning Rate Decay, Adaptive Optimization | `Python`, `NumPy`, `Matplotlib` | Completed |
-| **Lab 6** | *To be updated* | - | - | Pending |
+| **Lab 6** | [Regularization: Closing the Gap](DeepLearning-Labs/Lab6/arti402_Lab6_2240005715.ipynb) | L1 & L2 Regularization, Dropout, Weight Initialization, Batch Normalization, Overfitting Detection | `Python`, `NumPy`, `Matplotlib` | Completed |
+| **Lab 7** | [TensorFlow and Keras](DeepLearning-Labs/Lab7/arti402_Lab7_2240005715.ipynb) | Keras Workflow (Build, Compile, Fit, Evaluate), Framework Layers & Optimizers, Early Stopping Callbacks, `tf.data.Dataset`, Model Saving & Reloading | `Python`, `TensorFlow`, `Keras` | Completed |
+| **Lab 8** | *To be updated* | - | - | Pending |
 
 *(This table will be updated weekly as the course progresses).*
 
@@ -30,6 +32,7 @@ The goal of these labs is to bridge the gap between theoretical deep learning co
 - **Computer Vision (CNNs):** Building the four core blocks of Convolutional Neural Networks (Filtering, Pooling, Flattening, Dense) to achieve translation invariance and feature extraction.
 - **Sequential Data (RNNs):** Implementing RNN and LSTM cells to handle variable-length sequences, understanding the vanishing gradient problem, and utilizing gates for long-term and short-term memory.
 - **Advanced Optimizers:** Developing optimizers from scratch (SGD with Momentum, RMSProp, Adam) to solve complex optimization challenges like zig-zagging and adapting step sizes per parameter.
+- **Deep Learning Frameworks (TensorFlow/Keras):** Transitioning from NumPy scratch implementations to high-level framework workflows. Designing architectures using `keras.Sequential`, managing optimization with pre-built callbacks (like Early Stopping), and handling input pipelines efficiently with `tf.data`.
 
 ---
   
