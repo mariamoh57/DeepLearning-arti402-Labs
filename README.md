@@ -18,7 +18,7 @@ The goal of these labs is to bridge the gap between theoretical deep learning co
 | **Lab 7** | [TensorFlow and Keras](DeepLearning-Labs/Lab7/arti402_Lab7_2240005715.ipynb) | Keras Workflow (Build, Compile, Fit, Evaluate), Framework Layers & Optimizers, Early Stopping Callbacks, `tf.data.Dataset`, Model Saving & Reloading | `Python`, `TensorFlow`, `Keras` | Completed |
 | **Lab 8** | *PyTorch Training Loop (Reference)* | PyTorch Autograd, custom training loops, Tensors vs Arrays, DataLoaders, `nn.Module` | `Python`, `PyTorch` | Reference |
 | **Lab 9** | *Autoencoders (Reference)* | Unsupervised Representation Learning, Encoder/Decoder architecture, Denoising Autoencoders, Bottleneck Compression | `Python`, `PyTorch` | Reference |
-| **Lab 10** | [Attention: Letting the Network Look Back](DeepLearning-Labs/Lab10/arti402_Lab10_2240005715.ipynb) | Scaled Dot-Product Attention, Query-Key-Value (QKV), Self-Attention, Causal Masking | `Python`, `NumPy`, `Matplotlib` | Completed |
+| **Lab 10** | [Attention: Letting the Network Look Back](DeepLearning-Labs/Lab10/ARTI402_Lab10_2240005715.ipynb) | Scaled Dot-Product Attention, Query-Key-Value (QKV), Self-Attention, Causal Masking | `Python`, `NumPy`, `Matplotlib` | Completed |
 | **Lab 11** | *To be updated* | - | - | Pending |
 
 *(This table will be updated weekly as the course progresses).*
