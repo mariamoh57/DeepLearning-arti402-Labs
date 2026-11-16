@@ -18,6 +18,7 @@ The goal of these labs is to bridge the gap between theoretical deep learning co
 | **Lab 7** | [TensorFlow and Keras](DeepLearning-Labs/Lab7/arti402_Lab7_2240005715.ipynb) | Keras Workflow (Build, Compile, Fit, Evaluate), Framework Layers & Optimizers, Early Stopping Callbacks, `tf.data.Dataset`, Model Saving & Reloading | `Python`, `TensorFlow`, `Keras` | Completed |
 | **Lab 8** | *PyTorch Training Loop (Reference)* | PyTorch Autograd, custom training loops, Tensors vs Arrays, DataLoaders, `nn.Module` | `Python`, `PyTorch` | Reference |
 | **Lab 9** | *Autoencoders (Reference)* | Unsupervised Representation Learning, Encoder/Decoder architecture, Denoising Autoencoders, Bottleneck Compression | `Python`, `PyTorch` | Reference |
+| **Lab 10** | [Attention: Letting the Network Look Back](DeepLearning-Labs/Lab10/arti402_Lab10_2240005715.ipynb) | Scaled Dot-Product Attention, Query-Key-Value (QKV), Self-Attention, Causal Masking | `Python`, `NumPy`, `Matplotlib` | Completed |
 | **Lab 11** | *To be updated* | - | - | Pending |
 
 *(This table will be updated weekly as the course progresses).*
@@ -36,6 +37,7 @@ The goal of these labs is to bridge the gap between theoretical deep learning co
 - **Advanced Optimizers:** Developing optimizers from scratch (SGD with Momentum, RMSProp, Adam) to solve complex optimization challenges like zig-zagging and adapting step sizes per parameter.
 - **Deep Learning Frameworks (TensorFlow/Keras):** Transitioning from NumPy scratch implementations to high-level framework workflows. Designing architectures using `keras.Sequential`, managing optimization with pre-built callbacks (like Early Stopping), and handling input pipelines efficiently with `tf.data`.
 - **Unsupervised Representation Learning:** Understanding Autoencoders for dimensionality reduction, feature extraction without labels, and implementing denoising autoencoders in PyTorch to increase robustness against input corruption.
+- **Attention Mechanisms & Transformers:** Building scaled dot-product attention from scratch using NumPy, understanding the Query-Key-Value (QKV) mechanism, implementing self-attention, and applying causal masks for autoregressive text generation.
 
 ---
   
