@@ -16,7 +16,9 @@ The goal of these labs is to bridge the gap between theoretical deep learning co
 | **Lab 5** | [Optimizers: SGD, Momentum, RMSProp, and Adam](DeepLearning-Labs/Lab5/ARTI402_Lab5_2240005715.ipynb) | Gradient Descent Variants, Mini-batches, Learning Rate Decay, Adaptive Optimization | `Python`, `NumPy`, `Matplotlib` | Completed |
 | **Lab 6** | [Regularization: Closing the Gap](DeepLearning-Labs/Lab6/arti402_Lab6_2240005715.ipynb) | L1 & L2 Regularization, Dropout, Weight Initialization, Batch Normalization, Overfitting Detection | `Python`, `NumPy`, `Matplotlib` | Completed |
 | **Lab 7** | [TensorFlow and Keras](DeepLearning-Labs/Lab7/arti402_Lab7_2240005715.ipynb) | Keras Workflow (Build, Compile, Fit, Evaluate), Framework Layers & Optimizers, Early Stopping Callbacks, `tf.data.Dataset`, Model Saving & Reloading | `Python`, `TensorFlow`, `Keras` | Completed |
-| **Lab 8** | *To be updated* | - | - | Pending |
+| **Lab 8** | *PyTorch Training Loop (Reference)* | PyTorch Autograd, custom training loops, Tensors vs Arrays, DataLoaders, `nn.Module` | `Python`, `PyTorch` | Reference |
+| **Lab 9** | *Autoencoders (Reference)* | Unsupervised Representation Learning, Encoder/Decoder architecture, Denoising Autoencoders, Bottleneck Compression | `Python`, `PyTorch` | Reference |
+| **Lab 11** | *To be updated* | - | - | Pending |
 
 *(This table will be updated weekly as the course progresses).*
 
@@ -33,6 +35,7 @@ The goal of these labs is to bridge the gap between theoretical deep learning co
 - **Sequential Data (RNNs):** Implementing RNN and LSTM cells to handle variable-length sequences, understanding the vanishing gradient problem, and utilizing gates for long-term and short-term memory.
 - **Advanced Optimizers:** Developing optimizers from scratch (SGD with Momentum, RMSProp, Adam) to solve complex optimization challenges like zig-zagging and adapting step sizes per parameter.
 - **Deep Learning Frameworks (TensorFlow/Keras):** Transitioning from NumPy scratch implementations to high-level framework workflows. Designing architectures using `keras.Sequential`, managing optimization with pre-built callbacks (like Early Stopping), and handling input pipelines efficiently with `tf.data`.
+- **Unsupervised Representation Learning:** Understanding Autoencoders for dimensionality reduction, feature extraction without labels, and implementing denoising autoencoders in PyTorch to increase robustness against input corruption.
 
 ---
   
